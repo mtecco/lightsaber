@@ -44,7 +44,7 @@
 
 
 ## Diagramma dei collegamenti
- <img width="1060" height="820" alt="Image" src="https://github.com/user-attachments/assets/e785ca32-0832-4506-8490-6ad3c166e74c" />
+ <img width="1060" height="820" alt="Image" src="https://github.com/user-attachments/assets/28fcc30c-fa0b-4b97-86fd-8504a77a6229" />
 
 
 
